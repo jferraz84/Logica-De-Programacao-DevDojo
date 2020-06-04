@@ -28,6 +28,5 @@ public class TorneioDeNatacao {
         }
         System.out.println("-------------------------------");
         System.out.println("FIM");
-
     }
 }
