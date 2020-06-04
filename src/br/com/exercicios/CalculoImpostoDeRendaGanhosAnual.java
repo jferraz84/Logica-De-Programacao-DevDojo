@@ -25,7 +25,7 @@ public class CalculoImpostoDeRendaGanhosAnual {
             System.out.println("Sua alíquota será de 15% com valor de R$ 354,80");
         } else if (rendAnual >= 45012.61 && rendAnual <= 55976.16) {
             System.out.println("Sua alíquota será de 22,5% com valor de R$ 636,13");
-        } else if (rendAnual > 55976.16) {
+        } else {
             System.out.println("Sua alíquota será de 25% com valor de R$ 702,50");
         }
         System.out.println("---------------------------------------");
