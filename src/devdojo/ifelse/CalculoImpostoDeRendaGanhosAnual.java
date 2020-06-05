@@ -1,4 +1,4 @@
-package devdojo.exercicios.condicionais.ifelse;
+package devdojo.ifelse;
 
 import java.text.DecimalFormat;
 import java.util.Scanner;
