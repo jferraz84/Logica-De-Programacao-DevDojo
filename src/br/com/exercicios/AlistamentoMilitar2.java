@@ -19,18 +19,19 @@ public class AlistamentoMilitar2 {
         System.out.print("Digite sua idade: ");
         int idade = sc.nextInt();
 
-        //if (sexo.equalsIgnoreCase("m") || sexo.equalsIgnoreCase("f") && idade < 18){
-        if (sexo == "M" || sexo == "F" && idade < 18){
-            System.out.println("Alistamento Não PERMITIDO");
 
-        } else if(sexo == "M" && idade >= 18){
+
+        if (sexo.equals("m") && idade >= 18) {
             System.out.println("Alistamento OBRIGÁTORIO");
 
-        } else if(sexo == "F" && idade >= 18) {
+        } else if (sexo.equals("m") || sexo.equals("f") && idade < 18) {
+            System.out.println("Alistamento Não PERMITIDO");
+
+        } else if (sexo.equals("f") && idade >= 18) {
             System.out.print("Deseja se Alistar ? : ");
             String resp = sc.next();
 
-            if (resp.equalsIgnoreCase("sim")) {
+            if (resp.equals("sim")) {
                 System.out.println("PARABÈNS e seja muito bem vinda");
             } else {
                 System.out.println("Se mudar de ideia, estamos a disposição");
