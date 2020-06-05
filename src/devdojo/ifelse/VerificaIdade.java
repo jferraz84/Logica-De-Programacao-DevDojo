@@ -1,4 +1,4 @@
-package devdojo.exercicios.condicionais;
+package devdojo.exercicios.condicionais.ifelse;
 
 public class VerificaIdade {
     public static void main(String[] args) {

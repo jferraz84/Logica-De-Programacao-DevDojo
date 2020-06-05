@@ -1,4 +1,4 @@
-package devdojo.exercicios.condicionais;
+package devdojo.exercicios.condicionais.ifelse;
 
 /*
     Tabela do Imposto de Renda
