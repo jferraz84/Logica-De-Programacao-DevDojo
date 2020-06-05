@@ -1,4 +1,4 @@
-package devdojo.exercicios;
+package devdojo.lacosderepeticao;
 
 import java.util.Scanner;
 
@@ -16,7 +16,7 @@ public class Tabuada {
 
         //int cont = 0;
 
-        for (int i = 1; i <= 10 ; i++) {
+        for (int i = 1; i <= 10; i++) {
             int result = tabuada * i;
             System.out.println(tabuada+" X " +i+ " = " +result);
 
