@@ -10,7 +10,7 @@ public class Aula3NovaTabuada {
 
         for (int i = 2; i <= 10 ; i++) {
             System.out.println("-----------------");
-            System.out.println("Tabuada do : " + i);
+            System.out.println("Tabuada do: " + i);
             System.out.println("-----------------");
 
             for (int j = 1; j <=10 ; j++) {

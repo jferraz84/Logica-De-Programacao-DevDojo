@@ -11,7 +11,7 @@ public class SuperExercicio {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
-        DecimalFormat df = new DecimalFormat("0.00");
+        //DecimalFormat df = new DecimalFormat("0.00");
 
         System.out.println("===============================");
         System.out.println("***** AJUDANDO O USUÁRIO *****");
