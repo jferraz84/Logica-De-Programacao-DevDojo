@@ -2,7 +2,7 @@ package devdojo.lacosderepeticao.whiles;
 
 import java.util.Scanner;
 
-public class ImprimindoImpares {
+public class Aula2ImprimindoImpares {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
