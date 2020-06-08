@@ -1,4 +1,4 @@
-package devdojo.lacosderepeticao.whiles;
+package devdojo.lacosderepeticao.fors;
 
 import java.util.Scanner;
 
