@@ -1,4 +1,4 @@
-package devdojo.arrays;
+package devdojo.arrays.unidimensionais;
 
 import java.util.Scanner;
 
